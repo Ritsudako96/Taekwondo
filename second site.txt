@@ -1,0 +1,75 @@
+
+<html>
+	<head>
+		<title>Taekwondo</title>
+	</head>
+	<body>
+	<!-- Kaden Phi -->
+	<style type="text/css">
+	div {
+		width: 600px;
+		padding: 20px;
+		border: 5px solid #E0162B;
+		margin: 0px;
+		background-color: #0492C2;
+	}
+	.center {
+  		 margin: auto;
+	}
+	div.link{
+		position: fixed;
+		top: 0;
+		right: 0;
+width: 300px
+	}
+	body {
+ 		background-repeat: no-repeat;   
+    		background-attachment: fixed;
+  
+    		background-position: top center;
+    		background-size: contain;
+
+	}
+
+	</style>
+	<font face="Monospace" color=DarkBlue>
+
+	<body background="korea.jpg" width=100%>
+
+	<div class="center">
+	<marquee style="font-size:40pt;"scrollamount="10" direction="right"
+	behavior="alternate"><b><em>Sovereignty</em></b></marquee>
+	</div>
+<font face="Didot, Courier New">
+	<div style="position:fixed;left:350px;top:150px;width:300px;height:200px;">
+	<img src="King Card.jfif" width="170" height="250"
+	style="position:fixed;top:150px;right:1100px;">
+	<head><font size=+3><b>King</b></font><head>
+	<p> It is usually the highest rank, but it is the third strongest card in Big Two. </p>
+	</div>
+	
+	<div style="position:fixed;left:950px;top:150px;width:300px;height:200px;">
+	<img src="Queen Card.png" width="170" height="250"
+	style="position:fixed;top:150px;right:500px;">
+	<head><font size="+3"><b>Queen</b></font><head>
+	<p> It is a rank lower than the king, but it is the fourth strongest card in Big Two. </p>
+	</div>
+	
+	<div style="position:fixed;left:350px;top:450px;width:300px;height:200px;">
+	<img src="Jack Card.jfif" width="170" height="250"
+	style="position:fixed;top:450;right:1100px;">
+	<head><font size="+3"><b>Jack</b></font><head>
+	<p> It is a rank lower than the queen, but it is the fifth strongest card in Big Two. </p>
+	</div>
+	
+	<div style="position:fixed;left:950px;top:450px;width:300px;height:200px;">
+	<img src="Joker Card.jfif" width="170" height="250"
+	style="position:fixed;top:450;right:500px;">
+	<head><font size="+3"><b>Joker</b></font><head>
+	<p> A random card has appeared. </p>
+	</div>
+
+	<div class="link"><p>You can learn how to play Big Two <a href="https://www.wikihow.com/Play-Big-Two#:~:text=The%20rules%20of%20big%20two,a%20triple%20of%20higher%20rank." target="_blank">here</a>.</p></div>
+	</body>
+</html>
+	
